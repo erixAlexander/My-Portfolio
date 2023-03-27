@@ -42,7 +42,7 @@ export const data = [
     id: 5,
     image: IMG5,
     title: "PetMatch",
-    github: "https://github.com/erixAlexander/PetMatch-FullStack",
+    github: "https://github.com/erixAlexander/PetMatch-Full-Stack",
     demo: "https://petmatchlove.netlify.app/",
     category: "MERN",
   },
