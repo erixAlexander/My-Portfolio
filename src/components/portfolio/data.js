@@ -2,10 +2,11 @@ import IMG1 from "../../assets/portfolio1.png";
 import IMG2 from "../../assets/portfolio2.jpg";
 import IMG3 from "../../assets/portfolio3.jpg";
 import IMG4 from "../../assets/portfolio4.jpg";
-import IMG5 from "../../assets/portfolio5.jpg";
+import IMG5 from "../../assets/portfolio5.png";
 import IMG6 from "../../assets/portfolio6.jpg";
+import IMG7 from "../../assets/portfolio7.png";
 
-export const data = [
+export default [
   {
     id: 1,
     image: IMG1,
@@ -53,5 +54,13 @@ export const data = [
     github: "https://github.com/erixAlexander/Dark-Mode",
     demo: "https://main--splendid-tulumba-331c78.netlify.app/",
     category: "HTML/CSS/JS",
+  },
+  {
+    id: 7,
+    image: IMG7,
+    title: "Memories Blog",
+    github: "https://github.com/erixAlexander/Memories-Frontend",
+    demo: "https://steady-pithivier-5b7bef.netlify.app/",
+    category: "MERN",
   },
 ];

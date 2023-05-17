@@ -1,6 +1,6 @@
 header {
   height: 100vh;
-  padding-top: 7rem;
+  padding-top: 2rem;
   overflow: hidden;
 }
 
@@ -8,6 +8,7 @@ header {
   text-align-last: center;
   height: 100%;
   position: relative;
+
 }
 
 /* =================CTA============= */
@@ -65,7 +66,9 @@ header {
 
 @media screen and (max-width: 1024px) {
   header {
-    height: 68vh;
+    height: 100vh;
+  padding-top: 1rem;
+
   }
 }
 /* ================Media Queries (Small Devices)==========*/
