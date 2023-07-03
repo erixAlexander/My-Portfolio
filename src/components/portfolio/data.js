@@ -5,6 +5,7 @@ import IMG4 from "../../assets/portfolio4.jpg";
 import IMG5 from "../../assets/portfolio5.png";
 import IMG6 from "../../assets/portfolio6.jpg";
 import IMG7 from "../../assets/portfolio7.png";
+import IMG8 from "../../assets/portfolio8.png";
 
 export default [
   {
@@ -62,5 +63,13 @@ export default [
     github: "https://github.com/erixAlexander/Memories-Frontend",
     demo: "https://steady-pithivier-5b7bef.netlify.app/",
     category: "MERN",
+  },
+  {
+    id: 8,
+    image: IMG8,
+    title: "PetMatch - React Native",
+    github: "https://github.com/erixAlexander/PetMatch-React-Native",
+    demo: "https://expo.dev/@erix.gutierrez/petmatch?serviceType=classic&distribution=expo-go",
+    category: "React Native",
   },
 ];
